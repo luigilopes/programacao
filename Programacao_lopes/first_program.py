@@ -1,1 +1,0 @@
-print("Esse é o primeiro programa do meu Git!")
